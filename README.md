@@ -24,7 +24,7 @@ This project was **originally written using `INTELEJA`**.
 
 ## 📮 Contact
 
-By.Bahaa Salha Palestine: bah.sal.2018 [AT] gmail [D0T] com
+By.Bahaa Salha Palestine: bah.sal.2018@gmail.com
 
 
 ## ⚖️ License
